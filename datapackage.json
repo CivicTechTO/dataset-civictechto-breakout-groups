@@ -1,5 +1,6 @@
 {
     "name": "civictechto-breakout-groups",
+    "title": "Civic Tech Toronto - Breakout Groups",
     "resources": [
         {
             "name": "data",
@@ -10,47 +11,46 @@
                         "description": "",
                         "format": "default",
                         "name": "order",
-                        "title": "",
+                        "title": "Order",
                         "type": "integer"
                     },
                     {
                         "description": "",
                         "format": "default",
                         "name": "project",
-                        "title": "",
+                        "title": "Project Name",
                         "type": "string"
                     },
                     {
                         "description": "",
                         "format": "default",
                         "name": "person",
-                        "title": "",
+                        "title": "Person",
                         "type": "string"
                     },
                     {
                         "description": "",
                         "format": "default",
                         "name": "extra",
-                        "title": "",
-                        "type": "geojson"
+                        "title": "Extra Data",
+                        "type": "string"
                     },
                     {
                         "description": "",
                         "format": "default",
                         "name": "date",
-                        "title": "",
+                        "title": "Date",
                         "type": "date"
                     },
                     {
                         "description": "",
                         "format": "default",
                         "name": "is_onboarding",
-                        "title": "",
+                        "title": "Onboarding?",
                         "type": "boolean"
                     }
                 ]
             }
         }
-    ],
-    "title": "Civic Tech Toronto Breakout Groups"
+    ]
 }
