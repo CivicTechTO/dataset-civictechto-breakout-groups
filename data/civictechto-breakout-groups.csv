@@ -19,7 +19,7 @@ order,project,person,extra,date,is_onboarding
 18,Project Lab,Gabe,,2016-07-05,Y
 19,Civic Tech 101,Matthew,,2016-07-12,Y
 20,City of Brains,Mark,,2016-07-12,Y
-21,Councilmatic,patcon,,2016-07-12,N
+21,Councilmatic,patcon,,2016-07-12,
 22,"Sharing economy + blockchain, measuring value",Mohammed,looking for dev & +++,2016-07-12,Y
 23,Ontario election data mapping,Peter,info,2016-07-12,Y
 24,OpenReferral,Greg Bloom,riffing,2016-07-12,Y
@@ -30,14 +30,14 @@ order,project,person,extra,date,is_onboarding
 29,Freedom of Information (FOI) help & sharing,Jessica,planning & web dev,2016-07-19,Y
 30,User research for community wifi/mesh,Nahum,scoping/everyone!,2016-07-19,Y
 31,Toronto Mesh,Garry,planning & web dev,2016-07-19,Y
-32,Councilmatic,patcon,,2016-07-19,N
+32,Councilmatic,patcon,,2016-07-19,
 33,Project Lab,Gabe,,2016-07-19,Y
 34,Civic Tech 101,Matthew,,2016-07-26,Y
 35,Freedom of Information (FOI) help & sharing,Jessica,searching/planning,2016-07-26,Y
 36,Philanthropy 101,Ada,"next steps / designers, nonprofits",2016-07-26,Y
 37,Section 37 funding transparency,Abdi,next steps / policy & planning,2016-07-26,Y
 38,Policing Complaint Dialogue,Zakaria,setting goals,2016-07-26,Y
-39,Councilmatic,patcon,,2016-07-26,N
+39,Councilmatic,patcon,,2016-07-26,
 40,Mapping (healthcare) demand & supply,Oliver,mapping & data discovery,2016-07-26,Y
 41,Toronto Mesh,Curtis,info/chatting,2016-07-26,Y
 42,Chat about data collection & housing,"Judy, Kate",,2016-07-26,Y
@@ -57,7 +57,7 @@ order,project,person,extra,date,is_onboarding
 56,Mapping cycling infrastructure,Raphael,,2016-08-09,Y
 57,Solving the problem of open data formats,Chinmay,,2016-08-09,Y
 58,Toronto Mesh,Udit,preparing for node building workshop,2016-08-09,Y
-59,Councilmatic,patcon,,2016-08-09,N
+59,Councilmatic,patcon,,2016-08-09,
 60,FOI archive,Leon,looking for UX help!,2016-08-09,Y
 61,City of Brains,Mark,"design, transcribing, brains",2016-08-09,Y
 62,Police Complaints on Carding (PCOC),Zakaria,outreach & organizing,2016-08-09,Y
@@ -65,7 +65,7 @@ order,project,person,extra,date,is_onboarding
 64,Civic Tech 101,Gabe,,2016-08-16,Y
 65,Documentary-in-a-weekend workshop,Mohammed,newcountry.org,2016-08-16,Y
 66,STEM research,Andrew,,2016-08-16,Y
-67,Councilmatic,patcon,,2016-08-16,N
+67,Councilmatic,patcon,,2016-08-16,
 68,Philanthropy 101,Ada,mapping; charities,2016-08-16,Y
 69,Police Complaints on Carding (PCOC),Zakaria,outreach strategy,2016-08-16,Y
 70,Section 37 funding transparency,Abdi,,2016-08-16,Y
@@ -123,4 +123,3 @@ order,project,person,extra,date,is_onboarding
 122,Remote Deputations,Anuta,,2016-10-11,Y
 123,Project Lab,Gabe,,2016-10-11,Y
 124,Technical Resource Outreach,Chinmay,,2016-10-11,Y
-125,Civic Tech 101,,,2016-10-18,
