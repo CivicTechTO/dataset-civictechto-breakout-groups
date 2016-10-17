@@ -1,0 +1,56 @@
+{
+    "name": "civictechto-breakout-groups",
+    "resources": [
+        {
+            "name": "data",
+            "path": "./data/civictechto-breakout-groups.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "description": "",
+                        "format": "default",
+                        "name": "order",
+                        "title": "",
+                        "type": "integer"
+                    },
+                    {
+                        "description": "",
+                        "format": "default",
+                        "name": "project",
+                        "title": "",
+                        "type": "string"
+                    },
+                    {
+                        "description": "",
+                        "format": "default",
+                        "name": "person",
+                        "title": "",
+                        "type": "string"
+                    },
+                    {
+                        "description": "",
+                        "format": "default",
+                        "name": "extra",
+                        "title": "",
+                        "type": "geojson"
+                    },
+                    {
+                        "description": "",
+                        "format": "default",
+                        "name": "date",
+                        "title": "",
+                        "type": "date"
+                    },
+                    {
+                        "description": "",
+                        "format": "default",
+                        "name": "is_onboarding",
+                        "title": "",
+                        "type": "boolean"
+                    }
+                ]
+            }
+        }
+    ],
+    "title": "Civic Tech Toronto Breakout Groups"
+}
