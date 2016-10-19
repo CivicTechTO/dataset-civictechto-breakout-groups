@@ -124,10 +124,10 @@ order,project,person,extra,date,is_onboarding
 123,Project Lab,Gabe,,2016-10-11,Y
 124,Technical resource outreach,Chinmay,,2016-10-11,Y
 125,Civic Tech 101,Elena,,2016-10-18,Y
-126,Budgetpedia,Henrik,,2016-10-18,Y
-127,Climate Conversations,Halyna,,2016-10-18,Y
-128,Councillmatic,patcon,,2016-10-18,Y
+126,Budgetpedia,Henrik,"content creators, writers, people with feedback on budget",2016-10-18,Y
+127,Climate Conversations,Halyna,ideation/brainstorming,2016-10-18,Y
+128,Councilmatic,patcon,python/django devs,2016-10-18,Y
 129,Youth Employment Challenge,Lia,,2016-10-18,Y
 130,Policing Complaints of Carding,Sharky,,2016-10-18,Y
-131,Toronto Community Networks,V,,2016-10-18,Y
-132,Philanthropy 101,Ada,,2016-10-18,Y
+131,Toronto Community Networks,Vidhi,designers/researchers,2016-10-18,Y
+132,Philanthropy 101,Ada,design,2016-10-18,Y
