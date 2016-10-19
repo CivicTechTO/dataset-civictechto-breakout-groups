@@ -36,7 +36,7 @@ order,project,person,extra,date,is_onboarding
 35,Freedom of Information (FOI) app,Jessica,searching/planning,2016-07-26,Y
 36,Philanthropy 101,Ada,"next steps / designers, nonprofits",2016-07-26,Y
 37,Section 37 funding transparency,Abdi,next steps / policy & planning,2016-07-26,Y
-38,Police Complaints on Carding (PCOC),Zakaria,setting goals,2016-07-26,Y
+38,Policing Complaints of Carding (PCOC),Zakaria,setting goals,2016-07-26,Y
 39,Councilmatic,patcon,,2016-07-26,
 40,Health Atlas,Oliver,mapping & data discovery,2016-07-26,Y
 41,Toronto Mesh,Curtis,info/chatting,2016-07-26,Y
@@ -46,7 +46,7 @@ order,project,person,extra,date,is_onboarding
 45,Budgetpedia,Linda,comms plan/writers/designers/etc,2016-08-02,Y
 46,Health Atlas,Oliver,mapping / data exploration,2016-08-02,Y
 47,Section 37 funding transparency,Abdi,data advocacy & planning,2016-08-02,Y
-48,Police Complaints on Carding (PCOC),Zakaria,"comms, UX, webdev, outreach",2016-08-02,Y
+48,Policing Complaints of Carding (PCOC),Zakaria,"comms, UX, webdev, outreach",2016-08-02,Y
 49,Toronto Mesh,Ben,regroup!,2016-08-02,Y
 50,Freedom of Information (FOI) app,Jessica,web-based doc sharing!,2016-08-02,Y
 51,Free the Electorate,Peter,planning & documentation,2016-08-02,Y
@@ -60,21 +60,21 @@ order,project,person,extra,date,is_onboarding
 59,Councilmatic,patcon,,2016-08-09,
 60,Freedom of Information (FOI) app,Leon,looking for UX help!,2016-08-09,Y
 61,City of Brains,Mark,"design, transcribing, brains",2016-08-09,Y
-62,Police Complaints on Carding (PCOC),Zakaria,outreach & organizing,2016-08-09,Y
+62,Policing Complaints of Carding (PCOC),Zakaria,outreach & organizing,2016-08-09,Y
 63,Health Atlas,Oliver,"mapping, learning",2016-08-09,Y
 64,Civic Tech 101,Gabe,,2016-08-16,Y
 65,Documentary-in-a-weekend workshop,Mohammed,newcountry.org,2016-08-16,Y
 66,STEM research,Andrew,,2016-08-16,Y
 67,Councilmatic,patcon,,2016-08-16,
 68,Philanthropy 101,Ada,mapping; charities,2016-08-16,Y
-69,Police Complaints on Carding (PCOC),Zakaria,outreach strategy,2016-08-16,Y
+69,Policing Complaints of Carding (PCOC),Zakaria,outreach strategy,2016-08-16,Y
 70,Section 37 funding transparency,Abdi,,2016-08-16,Y
 71,Budgetpedia,Henrik,branding & outreach,2016-08-16,Y
 72,Free the Electorate,Peter,checking in; web app,2016-08-16,Y
 73,Health Atlas,Oliver,,2016-08-16,Y
 74,Poverty Reduction Hackathon,"Reema, Bianca","landlordwatch, 211 data",2016-08-16,Y
 75,Civic Tech 101,Gabe,,2016-08-23,Y
-76,Police Complaints on Carding (PCOC),Zakaria,"outreach strategy, comms",2016-08-23,Y
+76,Policing Complaints of Carding (PCOC),Zakaria,"outreach strategy, comms",2016-08-23,Y
 77,Poverty Reduction Hackathon,"Bianca, Andi, Lina, Carmen",,2016-08-23,Y
 78,Documentary-in-a-weekend workshop,Mohammed,newcountry.org,2016-08-23,Y
 79,Section 37 funding transparency,Abdi,updates,2016-08-23,Y
@@ -87,7 +87,7 @@ order,project,person,extra,date,is_onboarding
 86,TPL booking system,"Abe, Lina",,2016-08-30,Y
 87,Freedom of Information (FOI) app,Jessica,launch prep,2016-08-30,Y
 88,PATH,Mag,,2016-08-30,Y
-89,Poverty Reduction Hackathon,Biance,,2016-08-30,Y
+89,Poverty Reduction Hackathon,Bianca,,2016-08-30,Y
 90,Project Lab,Gabe,,2016-08-30,Y
 91,Civic Tech 101,Anuta,,2016-09-06,Y
 92,Budgetpedia,Linda,,2016-09-06,Y
@@ -129,5 +129,5 @@ order,project,person,extra,date,is_onboarding
 128,Councilmatic,patcon,python/django devs,2016-10-18,Y
 129,Youth Employment Challenge,Lia,,2016-10-18,Y
 130,Policing Complaints of Carding,Sharky,,2016-10-18,Y
-131,Toronto Community Networks,Vidhi,designers/researchers,2016-10-18,Y
+131,Toronto Community Network,Vidhi,designers/researchers,2016-10-18,Y
 132,Philanthropy 101,Ada,design,2016-10-18,Y
