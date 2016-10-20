@@ -12,21 +12,31 @@
                         "format": "default",
                         "name": "order",
                         "title": "Order",
-                        "type": "integer"
+                        "type": "integer",
+                        "constraints": {
+                          "required": true,
+                          "unique": true
+                        }
                     },
                     {
                         "description": "",
                         "format": "default",
                         "name": "project",
                         "title": "Project Name",
-                        "type": "string"
+                        "type": "string",
+                        "constraints": {
+                          "required": true
+                        }
                     },
                     {
                         "description": "",
                         "format": "default",
                         "name": "person",
                         "title": "Person",
-                        "type": "string"
+                        "type": "string",
+                        "constraints": {
+                          "required": true
+                        }
                     },
                     {
                         "description": "",
@@ -40,14 +50,20 @@
                         "format": "default",
                         "name": "date",
                         "title": "Date",
-                        "type": "date"
+                        "type": "date",
+                        "constraints": {
+                          "required": true
+                        }
                     },
                     {
                         "description": "",
                         "format": "default",
                         "name": "is_onboarding",
                         "title": "Onboarding?",
-                        "type": "boolean"
+                        "type": "boolean",
+                        "constraints": {
+                          "required": true
+                        }
                     }
                 ]
             }
