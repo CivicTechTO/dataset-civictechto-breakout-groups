@@ -3,7 +3,7 @@ python:
   - 3.4
 
 install:
-  - pip install --upgrade -r scripts/requirements-test.txt
+  - pip install -r scripts/requirements-test.txt
 
 script:
-- python scripts/test_data.py
+- goodtables datapackage datapackage.json
