@@ -1,133 +1,133 @@
 order,project,person,extra,date,is_onboarding
-1,Civic Tech 101,Irene,,2016-06-28,Y
-2,Public art mapping,Raphael,discussion,2016-06-28,Y
-3,City of Brains,Mark,ux,2016-06-28,Y
-4,Toronto Mesh,Dawn,website,2016-06-28,Y
-5,Free the Electorate,Peter,mapping,2016-06-28,Y
-6,Councilmatic,patcon,python/django devs,2016-06-28,Y
-7,Civic Tech 101,Irene,,2016-06-21,Y
-8,Accessibility engagement video,Marika,,2016-06-21,Y
-9,Budgetpedia,Henrik,,2016-06-21,Y
-10,Councilmatic,patcon,python/django devs,2016-06-21,Y
-11,Civic Tech 101,Matthew,,2016-07-05,Y
-12,Project Lab,Gabe,,2016-07-05,Y
-13,Councilmatic,patcon,python/django devs,2016-07-05,Y
-14,Free the Electorate,Peter,UI prototyping,2016-07-05,Y
-15,"Sharing economy + blockchain, measuring value",Mohammed,talking,2016-07-05,Y
-16,Freedom of Information (FOI) app,Jessica,workshop,2016-07-05,Y
-17,Toronto Community Network,Nahum,talking/planning,2016-07-05,Y
-18,Project Lab,Gabe,,2016-07-05,Y
-19,Civic Tech 101,Matthew,,2016-07-12,Y
-20,City of Brains,Mark,,2016-07-12,Y
-21,Councilmatic,patcon,,2016-07-12,
-22,"Sharing economy + blockchain, measuring value",Mohammed,looking for dev & +++,2016-07-12,Y
-23,Free the Electorate,Peter,info,2016-07-12,Y
-24,OpenReferral,Greg Bloom,riffing,2016-07-12,Y
-25,Civic Tech 101,Matthew,,2016-07-19,Y
-26,Health Atlas,Oliver,scoping/everyone!,2016-07-19,Y
-27,City of Brains,Mark,website work & discussion,2016-07-19,Y
-28,Budgetpedia,Henrik,advocacy planning,2016-07-19,Y
-29,Freedom of Information (FOI) app,Jessica,planning & web dev,2016-07-19,Y
-30,Toronto Community Network,Nahum,research/scoping/everyone!,2016-07-19,Y
-31,Toronto Mesh,Garry,planning & web dev,2016-07-19,Y
-32,Councilmatic,patcon,,2016-07-19,
-33,Project Lab,Gabe,,2016-07-19,Y
-34,Civic Tech 101,Matthew,,2016-07-26,Y
-35,Freedom of Information (FOI) app,Jessica,searching/planning,2016-07-26,Y
-36,Philanthropy 101,Ada,"next steps / designers, nonprofits",2016-07-26,Y
-37,Section 37 funding transparency,Abdi,next steps / policy & planning,2016-07-26,Y
-38,Policing Complaints of Carding (PCOC),Zakaria,setting goals,2016-07-26,Y
-39,Councilmatic,patcon,,2016-07-26,
-40,Health Atlas,Oliver,mapping & data discovery,2016-07-26,Y
-41,Toronto Mesh,Curtis,info/chatting,2016-07-26,Y
-42,Chat about data collection & housing,"Judy, Kate",,2016-07-26,Y
-43,Chat about Atkinson Decent Work Fund,Jenn,,2016-07-26,Y
-44,Civic Tech 101,Alox,,2016-08-02,Y
-45,Budgetpedia,Linda,comms plan/writers/designers/etc,2016-08-02,Y
-46,Health Atlas,Oliver,mapping / data exploration,2016-08-02,Y
-47,Section 37 funding transparency,Abdi,data advocacy & planning,2016-08-02,Y
-48,Policing Complaints of Carding (PCOC),Zakaria,"comms, UX, webdev, outreach",2016-08-02,Y
-49,Toronto Mesh,Ben,regroup!,2016-08-02,Y
-50,Freedom of Information (FOI) app,Jessica,web-based doc sharing!,2016-08-02,Y
-51,Free the Electorate,Peter,planning & documentation,2016-08-02,Y
-52,Councilmatic,patcon,info / Python / UX,2016-08-02,Y
-53,Project Lab,Gabe,,2016-08-02,Y
-54,Civic Tech 101,Gabe,,2016-08-09,Y
-55,Poverty Reduction Hackathon,Andi,,2016-08-09,Y
-56,Mapping cycling infrastructure,Raphael,,2016-08-09,Y
-57,Solving the problem of open data formats,Chinmay,,2016-08-09,Y
-58,Toronto Mesh,Udit,preparing for node building workshop,2016-08-09,Y
-59,Councilmatic,patcon,,2016-08-09,
-60,Freedom of Information (FOI) app,Leon,looking for UX help!,2016-08-09,Y
-61,City of Brains,Mark,"design, transcribing, brains",2016-08-09,Y
-62,Policing Complaints of Carding (PCOC),Zakaria,outreach & organizing,2016-08-09,Y
-63,Health Atlas,Oliver,"mapping, learning",2016-08-09,Y
-64,Civic Tech 101,Gabe,,2016-08-16,Y
-65,Documentary-in-a-weekend workshop,Mohammed,newcountry.org,2016-08-16,Y
-66,STEM research,Andrew,,2016-08-16,Y
-67,Councilmatic,patcon,,2016-08-16,
-68,Philanthropy 101,Ada,mapping; charities,2016-08-16,Y
-69,Policing Complaints of Carding (PCOC),Zakaria,outreach strategy,2016-08-16,Y
-70,Section 37 funding transparency,Abdi,,2016-08-16,Y
-71,Budgetpedia,Henrik,branding & outreach,2016-08-16,Y
-72,Free the Electorate,Peter,checking in; web app,2016-08-16,Y
-73,Health Atlas,Oliver,,2016-08-16,Y
-74,Poverty Reduction Hackathon,"Reema, Bianca","landlordwatch, 211 data",2016-08-16,Y
-75,Civic Tech 101,Gabe,,2016-08-23,Y
-76,Policing Complaints of Carding (PCOC),Zakaria,"outreach strategy, comms",2016-08-23,Y
-77,Poverty Reduction Hackathon,"Bianca, Andi, Lina, Carmen",,2016-08-23,Y
-78,Documentary-in-a-weekend workshop,Mohammed,newcountry.org,2016-08-23,Y
-79,Section 37 funding transparency,Abdi,updates,2016-08-23,Y
-80,Toronto Mesh,Jon,find out more,2016-08-23,Y
-81,Civic Tech 101,Emily,,2016-08-30,Y
-82,Timebank & basic income cryptocurrency,Alex,,2016-08-30,Y
-83,Philanthropy 101,Ada,mapping volunteer opportunities,2016-08-30,Y
-84,Budgetpedia,Linda,"comms, devs",2016-08-30,Y
-85,Health Atlas,Oliver,"data, mapping",2016-08-30,Y
-86,TPL booking system,"Abe, Lina",,2016-08-30,Y
-87,Freedom of Information (FOI) app,Jessica,launch prep,2016-08-30,Y
-88,PATH,Mag,,2016-08-30,Y
-89,Poverty Reduction Hackathon,Bianca,,2016-08-30,Y
-90,Project Lab,Gabe,,2016-08-30,Y
-91,Civic Tech 101,Anuta,,2016-09-06,Y
-92,Budgetpedia,Linda,,2016-09-06,Y
-93,Poverty Reduction Hackathon,Andi,"Youth Hub, Hackathon challenges",2016-09-06,Y
-94,Toronto Mesh,Ben,status update,2016-09-06,Y
-95,Service discovery for freed inmates,Johanna,locating services for people leaving jail,2016-09-06,Y
-96,Timebank & basic income cryptocurrency,Alex,"new participants, anyone interested in blockchain tech, timebanking",2016-09-06,Y
-97,Civic Tech 101,Bill,,2016-09-13,Y
-98,Democracy Week,Mark,special workshop on presenting deputations,2016-09-13,Y
-99,Toronto Mesh,dcwalk,"mapping networks, low-fi design, internet & networks",2016-09-13,Y
-100,Poverty Reduction Hackathon,"Reema, Leon",find out about the projects,2016-09-13,Y
-101,Budgetpedia,Linda,comms people,2016-09-13,Y
-102,Philanthropy 101,Ada,,2016-09-13,Y
-103,Civic Tech 101,Bill,,2016-09-20,Y
-104,Budgetpedia,Linda,anyone interested in budgets,2016-09-20,Y
-105,Toronto Mesh,Jon,"networks, alternative wifi in Toronto",2016-09-20,Y
-106,Remote Deputations,"Sharon, Anuta","devs, design, anyone interested in deputations",2016-09-20,Y
-107,Civic Tech 101,Bill,,2016-09-27,Y
-108,Remote Deputations,"Sharon, Anuta",design and UX,2016-09-27,Y
-109,Budgetpedia,Linda,,2016-09-27,Y
-110,City of Brains,Mark,"designers, product people, people with brains",2016-09-27,Y
-111,Councilmatic,patcon,,2016-09-27,Y
-112,Civic Tech 101,Linda,,2016-10-04,Y
-113,Budgetpedia,Henrik,"UX, policy, facilitators",2016-10-04,Y
-114,Locat app,Dennis,,2016-10-04,Y
-115,TPL booking system,Josh,,2016-10-04,Y
-116,Remote Deputations,"Sharon, Anuta, patcon",,2016-10-04,Y
-117,Government bridge,Paula,,2016-10-04,Y
-118,Civic Tech 101,Linda,,2016-10-11,Y
-119,Toronto Community Network,Nahum,,2016-10-11,Y
-120,Budgetpedia,Henrik,,2016-10-11,Y
-121,TPL booking system,Lina,,2016-10-11,Y
-122,Remote Deputations,Anuta,,2016-10-11,Y
-123,Project Lab,Gabe,,2016-10-11,Y
-124,Technical resource outreach,Chinmay,,2016-10-11,Y
-125,Civic Tech 101,Elena,,2016-10-18,Y
-126,Budgetpedia,Henrik,"content creators, writers, people with feedback on budget",2016-10-18,Y
-127,Climate Conversations,Halyna,ideation/brainstorming,2016-10-18,Y
-128,Councilmatic,patcon,python/django devs,2016-10-18,Y
-129,Youth Employment Challenge,Lia,,2016-10-18,Y
-130,Policing Complaints of Carding,Sharky,,2016-10-18,Y
-131,Toronto Community Network,Vidhi,designers/researchers,2016-10-18,Y
-132,Philanthropy 101,Ada,design,2016-10-18,Y
+1,Civic Tech 101,Irene,,2016-06-28,y
+2,Public art mapping,Raphael,discussion,2016-06-28,y
+3,City of Brains,Mark,ux,2016-06-28,y
+4,Toronto Mesh,Dawn,website,2016-06-28,y
+5,Free the Electorate,Peter,mapping,2016-06-28,y
+6,Councilmatic,patcon,python/django devs,2016-06-28,y
+7,Civic Tech 101,Irene,,2016-06-21,y
+8,Accessibility engagement video,Marika,,2016-06-21,y
+9,Budgetpedia,Henrik,,2016-06-21,y
+10,Councilmatic,patcon,python/django devs,2016-06-21,y
+11,Civic Tech 101,Matthew,,2016-07-05,y
+12,Project Lab,Gabe,,2016-07-05,y
+13,Councilmatic,patcon,python/django devs,2016-07-05,y
+14,Free the Electorate,Peter,UI prototyping,2016-07-05,y
+15,"Sharing economy + blockchain, measuring value",Mohammed,talking,2016-07-05,y
+16,Freedom of Information (FOI) app,Jessica,workshop,2016-07-05,y
+17,Toronto Community Network,Nahum,talking/planning,2016-07-05,y
+18,Project Lab,Gabe,,2016-07-05,y
+19,Civic Tech 101,Matthew,,2016-07-12,y
+20,City of Brains,Mark,,2016-07-12,y
+21,Councilmatic,patcon,,2016-07-12,n
+22,"Sharing economy + blockchain, measuring value",Mohammed,looking for dev & +++,2016-07-12,y
+23,Free the Electorate,Peter,info,2016-07-12,y
+24,OpenReferral,Greg Bloom,riffing,2016-07-12,y
+25,Civic Tech 101,Matthew,,2016-07-19,y
+26,Health Atlas,Oliver,scoping/everyone!,2016-07-19,y
+27,City of Brains,Mark,website work & discussion,2016-07-19,y
+28,Budgetpedia,Henrik,advocacy planning,2016-07-19,y
+29,Freedom of Information (FOI) app,Jessica,planning & web dev,2016-07-19,y
+30,Toronto Community Network,Nahum,research/scoping/everyone!,2016-07-19,y
+31,Toronto Mesh,Garry,planning & web dev,2016-07-19,y
+32,Councilmatic,patcon,,2016-07-19,n
+33,Project Lab,Gabe,,2016-07-19,y
+34,Civic Tech 101,Matthew,,2016-07-26,y
+35,Freedom of Information (FOI) app,Jessica,searching/planning,2016-07-26,y
+36,Philanthropy 101,Ada,"next steps / designers, nonprofits",2016-07-26,y
+37,Section 37 funding transparency,Abdi,next steps / policy & planning,2016-07-26,y
+38,Policing Complaints of Carding (PCOC),Zakaria,setting goals,2016-07-26,y
+39,Councilmatic,patcon,,2016-07-26,n
+40,Health Atlas,Oliver,mapping & data discovery,2016-07-26,y
+41,Toronto Mesh,Curtis,info/chatting,2016-07-26,y
+42,Chat about data collection & housing,"Judy, Kate",,2016-07-26,y
+43,Chat about Atkinson Decent Work Fund,Jenn,,2016-07-26,y
+44,Civic Tech 101,Alox,,2016-08-02,y
+45,Budgetpedia,Linda,comms plan/writers/designers/etc,2016-08-02,y
+46,Health Atlas,Oliver,mapping / data exploration,2016-08-02,y
+47,Section 37 funding transparency,Abdi,data advocacy & planning,2016-08-02,y
+48,Policing Complaints of Carding (PCOC),Zakaria,"comms, UX, webdev, outreach",2016-08-02,y
+49,Toronto Mesh,Ben,regroup!,2016-08-02,y
+50,Freedom of Information (FOI) app,Jessica,web-based doc sharing!,2016-08-02,y
+51,Free the Electorate,Peter,planning & documentation,2016-08-02,y
+52,Councilmatic,patcon,info / Python / UX,2016-08-02,y
+53,Project Lab,Gabe,,2016-08-02,y
+54,Civic Tech 101,Gabe,,2016-08-09,y
+55,Poverty Reduction Hackathon,Andi,,2016-08-09,y
+56,Mapping cycling infrastructure,Raphael,,2016-08-09,y
+57,Solving the problem of open data formats,Chinmay,,2016-08-09,y
+58,Toronto Mesh,Udit,preparing for node building workshop,2016-08-09,y
+59,Councilmatic,patcon,,2016-08-09,n
+60,Freedom of Information (FOI) app,Leon,looking for UX help!,2016-08-09,y
+61,City of Brains,Mark,"design, transcribing, brains",2016-08-09,y
+62,Policing Complaints of Carding (PCOC),Zakaria,outreach & organizing,2016-08-09,y
+63,Health Atlas,Oliver,"mapping, learning",2016-08-09,y
+64,Civic Tech 101,Gabe,,2016-08-16,y
+65,Documentary-in-a-weekend workshop,Mohammed,newcountry.org,2016-08-16,y
+66,STEM research,Andrew,,2016-08-16,y
+67,Councilmatic,patcon,,2016-08-16,n
+68,Philanthropy 101,Ada,mapping; charities,2016-08-16,y
+69,Policing Complaints of Carding (PCOC),Zakaria,outreach strategy,2016-08-16,y
+70,Section 37 funding transparency,Abdi,,2016-08-16,y
+71,Budgetpedia,Henrik,branding & outreach,2016-08-16,y
+72,Free the Electorate,Peter,checking in; web app,2016-08-16,y
+73,Health Atlas,Oliver,,2016-08-16,y
+74,Poverty Reduction Hackathon,"Reema, Bianca","landlordwatch, 211 data",2016-08-16,y
+75,Civic Tech 101,Gabe,,2016-08-23,y
+76,Policing Complaints of Carding (PCOC),Zakaria,"outreach strategy, comms",2016-08-23,y
+77,Poverty Reduction Hackathon,"Bianca, Andi, Lina, Carmen",,2016-08-23,y
+78,Documentary-in-a-weekend workshop,Mohammed,newcountry.org,2016-08-23,y
+79,Section 37 funding transparency,Abdi,updates,2016-08-23,y
+80,Toronto Mesh,Jon,find out more,2016-08-23,y
+81,Civic Tech 101,Emily,,2016-08-30,y
+82,Timebank & basic income cryptocurrency,Alex,,2016-08-30,y
+83,Philanthropy 101,Ada,mapping volunteer opportunities,2016-08-30,y
+84,Budgetpedia,Linda,"comms, devs",2016-08-30,y
+85,Health Atlas,Oliver,"data, mapping",2016-08-30,y
+86,TPL booking system,"Abe, Lina",,2016-08-30,y
+87,Freedom of Information (FOI) app,Jessica,launch prep,2016-08-30,y
+88,PATH,Mag,,2016-08-30,y
+89,Poverty Reduction Hackathon,Bianca,,2016-08-30,y
+90,Project Lab,Gabe,,2016-08-30,y
+91,Civic Tech 101,Anuta,,2016-09-06,y
+92,Budgetpedia,Linda,,2016-09-06,y
+93,Poverty Reduction Hackathon,Andi,"Youth Hub, Hackathon challenges",2016-09-06,y
+94,Toronto Mesh,Ben,status update,2016-09-06,y
+95,Service discovery for freed inmates,Johanna,locating services for people leaving jail,2016-09-06,y
+96,Timebank & basic income cryptocurrency,Alex,"new participants, anyone interested in blockchain tech, timebanking",2016-09-06,y
+97,Civic Tech 101,Bill,,2016-09-13,y
+98,Democracy Week,Mark,special workshop on presenting deputations,2016-09-13,y
+99,Toronto Mesh,dcwalk,"mapping networks, low-fi design, internet & networks",2016-09-13,y
+100,Poverty Reduction Hackathon,"Reema, Leon",find out about the projects,2016-09-13,y
+101,Budgetpedia,Linda,comms people,2016-09-13,y
+102,Philanthropy 101,Ada,,2016-09-13,y
+103,Civic Tech 101,Bill,,2016-09-20,y
+104,Budgetpedia,Linda,anyone interested in budgets,2016-09-20,y
+105,Toronto Mesh,Jon,"networks, alternative wifi in Toronto",2016-09-20,y
+106,Remote Deputations,"Sharon, Anuta","devs, design, anyone interested in deputations",2016-09-20,y
+107,Civic Tech 101,Bill,,2016-09-27,y
+108,Remote Deputations,"Sharon, Anuta",design and UX,2016-09-27,y
+109,Budgetpedia,Linda,,2016-09-27,y
+110,City of Brains,Mark,"designers, product people, people with brains",2016-09-27,y
+111,Councilmatic,patcon,,2016-09-27,y
+112,Civic Tech 101,Linda,,2016-10-04,y
+113,Budgetpedia,Henrik,"UX, policy, facilitators",2016-10-04,y
+114,Locat app,Dennis,,2016-10-04,y
+115,TPL booking system,Josh,,2016-10-04,y
+116,Remote Deputations,"Sharon, Anuta, patcon",,2016-10-04,y
+117,Government bridge,Paula,,2016-10-04,y
+118,Civic Tech 101,Linda,,2016-10-11,y
+119,Toronto Community Network,Nahum,,2016-10-11,y
+120,Budgetpedia,Henrik,,2016-10-11,y
+121,TPL booking system,Lina,,2016-10-11,y
+122,Remote Deputations,Anuta,,2016-10-11,y
+123,Project Lab,Gabe,,2016-10-11,y
+124,Technical resource outreach,Chinmay,,2016-10-11,y
+125,Civic Tech 101,Elena,,2016-10-18,y
+126,Budgetpedia,Henrik,"content creators, writers, people with feedback on budget",2016-10-18,y
+127,Climate Conversations,Halyna,ideation/brainstorming,2016-10-18,y
+128,Councilmatic,patcon,python/django devs,2016-10-18,y
+129,Youth Employment Challenge,Lia,,2016-10-18,y
+130,Policing Complaints of Carding,Sharky,,2016-10-18,y
+131,Toronto Community Network,Vidhi,designers/researchers,2016-10-18,y
+132,Philanthropy 101,Ada,design,2016-10-18,y
