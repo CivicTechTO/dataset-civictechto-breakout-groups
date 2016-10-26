@@ -10,5 +10,5 @@ this data is standardized, please see
 
 ### License
 
-This dataset is made available under the Open Data Commons
-Attribution License: http://opendatacommons.org/licenses/by/1.0
+This dataset is made available under the [_Open Data Commons
+Attribution License_](http://opendatacommons.org/licenses/by/1.0).
