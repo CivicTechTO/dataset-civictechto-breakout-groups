@@ -13,7 +13,7 @@
     ],
     "resources": [
         {
-            "name": "data",
+            "name": "civictechto-breakout-group-activity",
             "path": "./data/civictechto-breakout-groups.csv",
             "schema": {
                 "fields": [
