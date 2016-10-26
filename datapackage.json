@@ -1,6 +1,7 @@
 {
     "name": "civictechto-breakout-groups",
     "title": "Civic Tech Toronto - Breakout Groups",
+    "description": "During the second half of Civic Tech Toronto's weekly meetups, we run a hack night. People pitch breakout groups to work and/or discuss projects of all sizes. This dataset aims to capture the history of that work.",
     "resources": [
         {
             "name": "data",
