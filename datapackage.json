@@ -8,17 +8,6 @@
             "schema": {
                 "fields": [
                     {
-                        "description": "",
-                        "format": "default",
-                        "name": "order",
-                        "title": "Order",
-                        "type": "integer",
-                        "constraints": {
-                          "required": true,
-                          "unique": true
-                        }
-                    },
-                    {
                         "description": "Formal or informal name of the project.",
                         "format": "default",
                         "name": "project",
