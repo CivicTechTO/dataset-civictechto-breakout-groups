@@ -3,9 +3,10 @@
     "title": "Civic Tech Toronto - Breakout Groups",
     "description": "During the second half of Civic Tech Toronto's weekly meetups, we run a hack night. People pitch breakout groups to work and/or discuss projects of all sizes. This dataset aims to capture the history of that work.",
     "license": "ODC-BY-1.0",
-    "sources": [
-      "https://drive.google.com/drive/folders/0B2riIxpG2GHEcVN1Y0F3emlFTmc"
-    ],
+    "sources": [{
+      "name": "Civic Tech Toronto Google Drive folder of presentations",
+      "web": "https://drive.google.com/drive/folders/0B2riIxpG2GHEcVN1Y0F3emlFTmc"
+    }],
     "resources": [
         {
             "name": "data",
