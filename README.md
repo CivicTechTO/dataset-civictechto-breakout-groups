@@ -7,3 +7,8 @@ Civic Tech Toronto's weekly hack nights.
 For more information on the Data Package standard, according to which
 this data is standardized, please see
 [frictionlessdata.io](http://frictionlessdata.io/).
+
+### License
+
+This dataset is made available under the Open Data Commons
+Attribution License: http://opendatacommons.org/licenses/by/1.0
