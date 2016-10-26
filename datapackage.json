@@ -35,7 +35,7 @@
                         "type": "string"
                     },
                     {
-                        "description": "The date of the hacknight.",
+                        "description": "Hack night date.",
                         "format": "default",
                         "name": "date",
                         "title": "Date",
@@ -55,7 +55,7 @@
                         }
                     },
                     {
-                        "description": "The number of participants in the breakout, including project lead.",
+                        "description": "Number of participants in the breakout, including breakout group leader.",
                         "format": "default",
                         "name": "count",
                         "title": "Participant Count",
