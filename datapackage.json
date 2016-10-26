@@ -19,7 +19,7 @@
                         }
                     },
                     {
-                        "description": "",
+                        "description": "Formal or informal name of the project.",
                         "format": "default",
                         "name": "project",
                         "title": "Project Name",
@@ -29,7 +29,7 @@
                         }
                     },
                     {
-                        "description": "",
+                        "description": "The breakout leader for this particular hack night.",
                         "format": "default",
                         "name": "person",
                         "title": "Person",
@@ -39,14 +39,14 @@
                         }
                     },
                     {
-                        "description": "",
+                        "description": "Any extra contextual information specific to that hack night.",
                         "format": "default",
                         "name": "extra",
                         "title": "Extra Data",
                         "type": "string"
                     },
                     {
-                        "description": "",
+                        "description": "The date of the hacknight.",
                         "format": "default",
                         "name": "date",
                         "title": "Date",
@@ -56,7 +56,7 @@
                         }
                     },
                     {
-                        "description": "",
+                        "description": "Whether the group is actively soliciting new participants, or meeting with only prior ones.",
                         "format": "default",
                         "name": "is_onboarding",
                         "title": "Onboarding?",
