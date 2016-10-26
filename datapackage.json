@@ -64,6 +64,16 @@
                         "constraints": {
                           "required": true
                         }
+                    },
+                    {
+                        "description": "The number of participants in the breakout, including project lead.",
+                        "format": "default",
+                        "name": "count",
+                        "title": "Participant Count",
+                        "type": "integer",
+                        "constraints": {
+                          "required": false
+                        }
                     }
                 ]
             }
