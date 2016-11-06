@@ -1,4 +1,4 @@
 # datapackage
 datapackage
--e git+https://github.com/frictionlessdata/goodtables-py.git@next#egg=goodtables
+goodtables~=1.0.0a
 tabulator
