@@ -31,7 +31,7 @@
                         }
                     },
                     {
-                        "description": "The breakout leader for this particular hack night.",
+                        "description": "The breakout leader for this particular hack night. Slack username on civictechto Slack team if preceded with '@' symbol. Otherwise is informal name.",
                         "format": "default",
                         "name": "person",
                         "title": "Person",
