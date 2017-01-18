@@ -70,8 +70,28 @@
                     {
                         "description": "Number of participants in the breakout, including breakout group leader.",
                         "format": "default",
-                        "name": "count",
+                        "name": "participant_count",
                         "title": "Participant Count",
+                        "type": "integer",
+                        "constraints": {
+                          "required": false
+                        }
+                    },
+                    {
+                        "description": "Number of visible minority (non-Caucasian) participants in the breakout.",
+                        "format": "default",
+                        "name": "vismin_count",
+                        "title": "Visible Minority Participant Count",
+                        "type": "integer",
+                        "constraints": {
+                          "required": false
+                        }
+                    },
+                    {
+                        "description": "Number of female-presenting participants in the breakout.",
+                        "format": "default",
+                        "name": "female_count",
+                        "title": "Female Participant Count",
                         "type": "integer",
                         "constraints": {
                           "required": false
