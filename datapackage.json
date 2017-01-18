@@ -21,6 +21,16 @@
             "schema": {
                 "fields": [
                     {
+                        "description": "Hack night date.",
+                        "format": "default",
+                        "name": "date",
+                        "title": "Date",
+                        "type": "date",
+                        "constraints": {
+                          "required": true
+                        }
+                    },
+                    {
                         "description": "Formal or informal name of the project.",
                         "format": "default",
                         "name": "project",
@@ -46,16 +56,6 @@
                         "name": "extra",
                         "title": "Extra Data",
                         "type": "string"
-                    },
-                    {
-                        "description": "Hack night date.",
-                        "format": "default",
-                        "name": "date",
-                        "title": "Date",
-                        "type": "date",
-                        "constraints": {
-                          "required": true
-                        }
                     },
                     {
                         "description": "Whether the group is actively soliciting new participants, or meeting with only prior ones.",
