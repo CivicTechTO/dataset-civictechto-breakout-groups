@@ -58,7 +58,7 @@
                         "type": "string"
                     },
                     {
-                        "description": "Whether the group is actively soliciting new participants, or meeting with only prior ones.",
+                        "description": "Whether the group pitched for new participants.",
                         "format": "default",
                         "name": "is_onboarding",
                         "title": "Onboarding?",
