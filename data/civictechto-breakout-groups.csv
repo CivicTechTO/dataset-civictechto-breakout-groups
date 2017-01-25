@@ -336,7 +336,7 @@ date,project,person,extra,is_onboarding,participant_count,vismin_count,female_co
 2016-01-19,Budgetpedia,@henrik,,y,3,,
 2016-01-19,Budget data viz workshop,@gabe,,y,3,,
 2016-01-19,Societal measure / Indicators,Steven,,y,,,
-2017-01-24,Civic Tech 101,@kara,,y,12,,
+2017-01-24,Civic Tech 101,@kara,,y,12,,-
 2017-01-24,Budgetpedia,@henrik,ux specialists,y,9,,1
 2017-01-24,vKanata,@derekhoward,online public consultations,y,8,,1
 2017-01-24,Guerrilla Archiving,@mattprice,"monitoring phase. scraping workflow, and infra",y,6,,1
