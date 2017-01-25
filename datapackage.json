@@ -73,6 +73,7 @@
                         "name": "participant_count",
                         "title": "Participant Count",
                         "type": "integer",
+                        "missingValue": ["", "-"],
                         "constraints": {
                           "required": false
                         }
@@ -83,6 +84,7 @@
                         "name": "vismin_count",
                         "title": "Visible Minority Participant Count",
                         "type": "integer",
+                        "missingValue": ["", "-"],
                         "constraints": {
                           "required": false
                         }
@@ -93,6 +95,7 @@
                         "name": "female_count",
                         "title": "Female Participant Count",
                         "type": "integer",
+                        "missingValue": ["", "-"],
                         "constraints": {
                           "required": false
                         }
