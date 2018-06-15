@@ -1,4 +1,4 @@
-date,project,person,extra,is_onboarding,participant_count,vismin_count,female_count
+date,project,person,extra,is_onboarding,participant_count,vismin_count,female_count,trello_card_id
 2016-06-28,Civic Tech 101,Irene,,y,,,
 2016-06-28,Public art mapping,@rdumas,discussion,y,,,
 2016-06-28,City of Brains,Mark,ux,y,,,
