@@ -4,7 +4,8 @@ python:
 install:
 - pip install -r scripts/requirements-test.txt
 script:
-- goodtables datapackage datapackage.json
+- goodtables --version
+- goodtables datapackage.json
 notifications:
   email: false
   slack:
