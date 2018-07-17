@@ -99,6 +99,17 @@
                         "constraints": {
                           "required": false
                         }
+                    },
+                    {
+                        "description": "Internal ID of the Trello card associated with this project, from the Hacknight Projects Trello board.",
+                        "format": "default",
+                        "name": "trello_card_id",
+                        "title": "Trello Card ID",
+                        "type": "string",
+                        "missingValue": ["", "-"],
+                        "constraints": {
+                          "required": false
+                        }
                     }
                 ]
             }
