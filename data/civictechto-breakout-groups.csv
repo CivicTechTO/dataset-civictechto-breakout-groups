@@ -200,7 +200,7 @@ date,project,person,extra,is_onboarding,participant_count,vismin_count,female_co
 2016-12-06,Councilmatic,@gabe,,y,1,,,
 2016-12-06,TPL Booking System,@marek.holly,,y,3,,,
 2016-12-13,Civic Tech 101,@sharonk,,y,,,,
-2016-12-13,Guerrilla Archiving,@mattprice,people to help with scoping the tech part,y,,,,
+2016-12-13,Guerrilla Archiving,@mattprice,people to help with scoping the tech part,y,,,,58e98bcb3a26bbdc78f92c20
 2016-12-13,Toronto Community Network,@vidhigupta,user research/great ideas,y,,,,
 2016-12-13,MyDem0cracy.ca,@derekhoward,"Feedback, communications",y,,,,
 2016-12-13,Ballot Changing Initiative,David,"see what they have, great ideas",y,,,,
@@ -210,7 +210,7 @@ date,project,person,extra,is_onboarding,participant_count,vismin_count,female_co
 2016-12-13,Budgetpedia,@chgraham,User Testing,y,,,,
 2016-12-13,Councilmatic,@gabe,"Python developer, user testing",y,,,,
 2017-01-03,Civic Tech 101,@lia,,y,,,,
-2017-01-03,Guerrilla Archiving,@mattprice,archiving US federal government websites/data,y,,,,
+2017-01-03,Guerrilla Archiving,@mattprice,archiving US federal government websites/data,y,,,,58e98bcb3a26bbdc78f92c20
 2017-01-03,Budgetpedia,@jarvis,,y,,,,
 2017-01-03,DemocracyKit,@cscw,a kit for running municipal election campaigns,y,,,,
 2017-01-03,MyDem0cracy.ca,@derekhoward,parallel online public consultation,y,,,,
@@ -222,7 +222,7 @@ date,project,person,extra,is_onboarding,participant_count,vismin_count,female_co
 2017-01-10,MyDem0cracy.ca,@derekhoward,online public consultation / data release,y,2,,,
 2017-01-10,Citizen Data Portal,@patcon,,y,1,,,
 2017-01-10,Budgetpedia,@chgraham,,y,6,,,
-2017-01-10,Guerrilla Archiving,@dcwalk,documenting and sharing outcomes,y,6,,,
+2017-01-10,Guerrilla Archiving,@dcwalk,documenting and sharing outcomes,y,6,,,58e98bcb3a26bbdc78f92c20
 2017-01-10,Bullying Map,@hesham,data gathering,y,1,,,
 2017-01-10,Democracy / data science,@jordan,,y,2,,,
 2017-01-10,DemocracyKit,@cscw,,y,11,,,
@@ -236,7 +236,7 @@ date,project,person,extra,is_onboarding,participant_count,vismin_count,female_co
 2017-01-17,City of Brains,@markfreeman,"marketing, data analysis / mental health -> policy change",y,4,1,3,
 2017-01-17,DemocracyKit,@cscw,building a kit to support municipal candidates,y,13,0,6,
 2017-01-17,Bullying Map,@hesham,releasing & visualizing data,y,1,0,0,
-2017-01-17,Guerrilla Archiving,@mattprice,fresh semi-tech eyes / Chrome extension / work harvester,y,6,1,3,
+2017-01-17,Guerrilla Archiving,@mattprice,fresh semi-tech eyes / Chrome extension / work harvester,y,6,1,3,58e98bcb3a26bbdc78f92c20
 2017-01-17,Budgetpedia,@jarvis,"feedback, UX",y,8,2,2,
 2017-01-17,TTC Subway Tracker,@rdumas,what next?! / data analysis,y,4,0,0,
 2017-01-17,CodeAcross,@alexca79,,n,2,0,1,
@@ -339,14 +339,14 @@ date,project,person,extra,is_onboarding,participant_count,vismin_count,female_co
 2017-01-24,Civic Tech 101,@kara,,y,12,,-,
 2017-01-24,Budgetpedia,@henrik,ux specialists,y,9,,1,
 2017-01-24,vKanata,@derekhoward,online public consultations,y,8,,1,
-2017-01-24,Guerrilla Archiving,@mattprice,"monitoring phase. scraping workflow, and infra",y,6,,1,
+2017-01-24,Guerrilla Archiving,@mattprice,"monitoring phase. scraping workflow, and infra",y,6,,1,58e98bcb3a26bbdc78f92c20
 2017-01-24,DemocracyKit,@katie.g,"kit for municipal candidates. Compliance, resources, planning modules.",y,19,,7,
 2017-01-24,Policing Complaints of Carding (PCOC),@sharky,engagement related to racial profiling. Thecarded.ca. Web devs.,y,4,,0,
 2017-01-24,TPL Booking System,@louis,digital innovation hub booking system.,y,5,,1,
 2017-01-24,Councilmatic,@gabe,"monitoring city hall. Python devs, devops, user interview scripts.",y,4,,2,
 2017-01-24,Project Dashboard,@jmikhail,,n,2,,1,
 2017-01-31,Civic Tech 101,@elena,,y,12,,6,
-2017-01-31,Guerrilla Archiving,@dcwalk,improving scrapers. App for in-person events.,y,4,,1,
+2017-01-31,Guerrilla Archiving,@dcwalk,improving scrapers. App for in-person events.,y,4,,1,58e98bcb3a26bbdc78f92c20
 2017-01-31,Budgetpedia,@henrik,improving user experience (ux),y,8,,3,
 2017-01-31,Policing Complaints of Carding (PCOC),@sharky,racial profiling. {education. Legal mean for keeping accountable},y,3,,1,
 2017-01-31,DemocracyKit,@katie.g,building resources for municipal campaigns.,y,15,,7,
@@ -358,7 +358,7 @@ date,project,person,extra,is_onboarding,participant_count,vismin_count,female_co
 2017-01-31,Legal records blockchain,Matt,working on standards,y,1,,0,
 2017-01-31,Digital Government,Grahame,chatty chat chat,y,12,,3,
 2017-02-07,Civic Tech 101,@lia,,y,7,,5,
-2017-02-07,Guerrilla Archiving,@mattprice,,y,5,,2,
+2017-02-07,Guerrilla Archiving,@mattprice,,y,5,,2,58e98bcb3a26bbdc78f92c20
 2017-02-07,Budgetpedia,@henrik,,y,6,,2,
 2017-02-07,Policing Complaints of Carding (PCOC),@sharky,,y,3,,1,
 2017-02-07,DemocracyKit,@cscw,,y,13,,3,
@@ -374,7 +374,7 @@ date,project,person,extra,is_onboarding,participant_count,vismin_count,female_co
 2017-02-14,Councilmatic,@gabe,"communicating city hall activity {testing user interviews, TMMIS users. }",y,4,,2,
 2017-02-14,Policing Complaints of Carding (PCOC),@sharky,racial profiling. {education. Legal mean for keeping accountable},y,3,,2,
 2017-02-14,TPL Booking System,CL Fisher,booking digital innovation hub assets. {},y,2,,1,
-2017-02-14,Guerrilla Archiving,@sharlychan,improving scrapers. App for in-person events.,y,2,,2,
+2017-02-14,Guerrilla Archiving,@sharlychan,improving scrapers. App for in-person events.,y,2,,2,58e98bcb3a26bbdc78f92c20
 2018-05-15,Civic Tech 101,patcon,,,,,,
 2018-05-15,BikeSpace,jakemiller50,,,,,,
 2018-05-15,Women and Color,mohammedasaduallah,,,,,,
