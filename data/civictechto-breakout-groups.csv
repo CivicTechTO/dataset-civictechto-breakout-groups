@@ -240,7 +240,7 @@ date,project,person,extra,is_onboarding,participant_count,vismin_count,female_co
 2016-11-01,Budgetpedia,@henrik,"writers, communications",y,4,,,58e98a5f461c8372ade2f901
 2016-11-01,Civic Tech 101,@elena,,y,10,,,58effa8788d17fda0f1c5a05
 2016-11-01,DemocracyKit,@cswc,data entry,y,0,,,58e98baa1f0d24ff98128be7
-2016-11-01,Pol.is,@patcon,"UX and UI, design, municipal level consultations experts",y,7,,,
+2016-11-01,Polis,@patcon,"UX and UI, design, municipal level consultations experts",y,7,,,
 2016-11-01,Uncovering Hidden Jobs (YEC2),@sharonk,"developers, designers, researchers",y,8,,,
 2016-11-08,Budgetpedia,@henrik,social media & launch planning,y,4,,,58e98a5f461c8372ade2f901
 2016-11-08,Citizen Data Portal,@patcon,"dev, UX",y,2,,,
@@ -686,6 +686,46 @@ date,project,person,extra,is_onboarding,participant_count,vismin_count,female_co
 2021-06-29,Civic Tech 101,,,,,,,58effa8788d17fda0f1c5a05
 2021-07-06,Civic Tech 101,,,,,,,58effa8788d17fda0f1c5a05
 2021-07-13,Civic Tech 101,,,,,,,58effa8788d17fda0f1c5a05
+2024-07-02,Civic Tech 101,Mir,,,,,,
+2024-07-02,Presenter: Respitely TO accessing essential services,Arjun,,,,,,
+2024-07-02,Citizen Dashboard,Ilya,,,,,,
+2024-07-02,Toronto Police Tech Audit,Ushnish,,,,,,
+2024-07-02,Council voting records on climate,???,,,,,,
+2024-07-02,Multiplex co-op project,Jim,,,,,,
+2024-07-02,EI eligibility tool,Dylan,,,,,,
+2024-07-02,Polis,Sebastian Ruan,,,,,,
+2024-07-02,BikeSpace / bike parking,Hyunsoo,,,,,,
+2024-07-02,Civic Tech Tool Kit,Jordi,,,,,,
+2024-07-09,Civic Tech 101,Mir,,,,,,58effa8788d17fda0f1c5a05
+2024-07-09,Presenter: scattered unit co-ops,Jim,,,,,,
+2024-07-09,Polis,Sebastian Ruan,,,,,,
+2024-07-09,Civic Tech Tool Kit,Luke,,,,,,
+2024-07-09,Tracking bus bunching,Thomas,,,,,,
+2024-07-09,BikeSpace / bike parking,Hyunsoo,,,,,,59ffd419d3228ba3b9eabf79
+2024-07-09,Character design first!,Hyunsoo,,,,,,
+2024-07-09,Simple EI,Sudhakar,,,,,,
+2024-07-09,Toronto Polis Tech Audit,Ushnish,,,,,,
+2024-07-16,Presenter: Grocery tracker & food transparency,Eric,,,,,,
+2024-07-16,Civic Tech 101,Mir,,,,,,58effa8788d17fda0f1c5a05
+2024-07-16,Civic Tech Book Club,Jeff,,,,,,
+2024-07-16,Toronto Police Tech Audit,Ushnish,,,,,,
+2024-07-16,Citizen Dashboard,Ilya,,,,,,
+2024-07-16,Simple EI eligibility,Dylan,,,,,,
+2024-07-16,BikeSpace,Sonal,,,,,,59ffd419d3228ba3b9eabf79
+2024-07-16,Polis,Sebastian Ruan,,,,,,
+2024-07-16,Civic Tech Tool Kit,,,,,,,
+2024-07-23,Civic Tech 101,Mir,,,,,,58effa8788d17fda0f1c5a05
+2024-07-23,Citizen Dashboard,Ilya,,,,,,
+2024-07-23,Polis,Sebastian Ruan,,,,,,
+2024-07-23,Simple EI / EI eligibility checker,Sudhakar,,,,,,
+2024-07-23,Presenter: tRacket urban noise tracking,Gabe,,,,,,
+2024-07-30,Civic Tech 101,Mir,,,,,,58effa8788d17fda0f1c5a05
+2024-07-30,Presenter: Canadian Urban Data Catalogue,Mark Fox,,,,,,
+2024-07-30,Polis,Sebastian Ruan,,,,,,
+2024-07-30,Citizen Dashboard,Ilya,,,,,,
+2024-07-30,EI Eligibility Dashboard,Sudhakar,,,,,,
+2024-07-30,Climate Fast,Anna,,,,,,
+2024-07-30,BikeSpace,Ben,,,,,,59ffd419d3228ba3b9eabf79
 2024-08-06,Civic Tech 101,Chantel,,,,,,58effa8788d17fda0f1c5a05
 2024-08-06,Presenter: Gen AI,Alex Olsen,,,,,,
 2024-08-06,Polis,Sebastian Ruan,,,,,,
